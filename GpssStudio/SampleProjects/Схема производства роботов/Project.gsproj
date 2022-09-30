@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GpssStudioProject FormatVersion="1">
+  <Guid>a8fa94de-1c29-4f89-98f6-3218758b7e27</Guid>
+  <Name>Схема производства роботов с использованием обратной связи по готовой репродукции</Name>
+  <Description>Рассматривается технологический процесс самовоспроизведения роботов. Основным элементом технологического процесса представляется технологическая операция, которая определяется двумя параметрами – временем выполнения и вероятностью правильного выполнения. Технологическую операцию могут выполнять и роботы, и люди, но с разными параметрами.</Description>
+  <CreationDate>2017-09-27T06:56:19.4452281+03:00</CreationDate>
+  <HelpID>Htmls\Toc_6_2.htm</HelpID>
+  <SimModels>
+    <SimModel>
+      <Name>Производство роботов</Name>
+      <Description></Description>
+      <Version>1</Version>
+      <CreationDate>27.09.2017 6:56:19</CreationDate>
+      <IsCurrent>True</IsCurrent>
+      <RunDate>25.07.2018 10:36:07</RunDate>
+      <Forms>
+        <Form>
+          <Name>Форма. Производство роботов</Name>
+          <CreationDate>23.07.2018 8:49:52</CreationDate>
+        </Form>
+      </Forms>
+    </SimModel>
+  </SimModels>
+  <TebsLibraries>
+    <TebsLibrary>
+      <Guid>bab4c397-43e0-49f3-84f8-7cbdc0afb2dd</Guid>
+      <Version>1.0.0.0</Version>
+      <Name>Библиотека ТЭБов</Name>
+      <Description></Description>
+      <CreationDate>Ср 27.09.17 6:56:19</CreationDate>
+      <Format>0</Format>
+    </TebsLibrary>
+  </TebsLibraries>
+</GpssStudioProject>

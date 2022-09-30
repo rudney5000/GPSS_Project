@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GpssStudioProject FormatVersion="1">
+  <Guid>2cc4eeca-03cc-41ec-849a-73d8230dcc0e</Guid>
+  <Name>ЛЗП</Name>
+  <Description></Description>
+  <CreationDate>2021-12-19T21:54:50.9617710+03:00</CreationDate>
+  <SimModels>
+    <SimModel>
+      <Name>Модель 1</Name>
+      <Description></Description>
+      <Version>1</Version>
+      <CreationDate>19.12.2021 21:54:51</CreationDate>
+      <IsCurrent>True</IsCurrent>
+      <RunDate></RunDate>
+    </SimModel>
+  </SimModels>
+  <TebsLibraries>
+    <TebsLibrary>
+      <Guid>90c69dba-7534-4a72-baed-c54d04e47cda</Guid>
+      <Version>1.0.0.0</Version>
+      <Name>Библиотека ТЭБов</Name>
+      <Description></Description>
+      <CreationDate>19.12.2021 21:55:09</CreationDate>
+      <Format>0</Format>
+    </TebsLibrary>
+  </TebsLibraries>
+</GpssStudioProject>

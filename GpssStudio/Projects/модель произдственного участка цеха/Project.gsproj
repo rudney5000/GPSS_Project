@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GpssStudioProject FormatVersion="1">
+  <Guid>8574212c-3f84-468e-9a7b-98d997358d6b</Guid>
+  <Name>модель произдственного участка цеха</Name>
+  <Description></Description>
+  <CreationDate>2021-11-17T21:52:30.9542065+03:00</CreationDate>
+  <SimModels>
+    <SimModel>
+      <Name>Модель 1</Name>
+      <Description></Description>
+      <Version>1</Version>
+      <CreationDate>17.11.2021 21:52:31</CreationDate>
+      <IsCurrent>True</IsCurrent>
+      <RunDate>18.11.2021 0:44:18</RunDate>
+    </SimModel>
+  </SimModels>
+  <TebsLibraries>
+    <TebsLibrary>
+      <Guid>78ce7814-4635-4161-8e1d-93ca266a8e88</Guid>
+      <Version>1.0.0.0</Version>
+      <Name>Библиотека ТЭБов</Name>
+      <Description></Description>
+      <CreationDate>17.11.2021 21:52:40</CreationDate>
+      <Format>0</Format>
+    </TebsLibrary>
+  </TebsLibraries>
+</GpssStudioProject>

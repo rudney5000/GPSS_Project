@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GpssStudioProject FormatVersion="1">
+  <Guid>2262530f-39cd-4fec-a302-e027e97cb914</Guid>
+  <Name>Строительство</Name>
+  <Description>Рассматривается модель строительства пятиэтажного дома включающая возведение подземной и наземной частей; устройство кровли; сантехнические, электромонтажные и отделочные работы. Каждый вид работы выполняет бригада строителей. Необходимо определить количество строителей в каждой из бригад, чтобы завершить процесс строительства как можно раньше. 
+</Description>
+  <CreationDate>2018-08-10T15:01:01.2819868+03:00</CreationDate>
+  <HelpID>Htmls\Toc_5_2.htm</HelpID>
+  <SimModels>
+    <SimModel>
+      <Name>Модель 1</Name>
+      <Description></Description>
+      <Version>1</Version>
+      <CreationDate>10.08.2018 15:01:01</CreationDate>
+      <IsCurrent>True</IsCurrent>
+      <RunDate>13.08.2018 11:20:37</RunDate>
+      <Forms>
+        <Form>
+          <Name>№1</Name>
+          <CreationDate>10.08.2018 14:43:29</CreationDate>
+        </Form>
+      </Forms>
+    </SimModel>
+  </SimModels>
+  <TebsLibraries>
+    <TebsLibrary>
+      <Guid>ee080f98-6ace-404f-8441-e22da51e363e</Guid>
+      <Version>1.0.0.0</Version>
+      <Name>Библиотека ТЭБов</Name>
+      <Description></Description>
+      <CreationDate>10.08.2018 15:01:01</CreationDate>
+      <Format>0</Format>
+    </TebsLibrary>
+  </TebsLibraries>
+</GpssStudioProject>

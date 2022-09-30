@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GpssStudioProject FormatVersion="1">
+  <Guid>c93ff45f-ea96-4e46-b00d-12bc9880bf56</Guid>
+  <Name>Агропромпарк</Name>
+  <Description>Необходимо определить, при каких значениях входных параметров (количество лабораторий и время проверки в лаборатории) достигается максимальная загруженность накопителя.</Description>
+  <CreationDate>2017-08-15T15:52:16.6533641+03:00</CreationDate>
+  <HelpID>Htmls\Toc_2_2.htm</HelpID>
+  <HasIosoExperiment>True</HasIosoExperiment>
+  <SimModels>
+    <SimModel>
+      <Name>Модель Агропромышленного парка РТ</Name>
+      <Description></Description>
+      <Version>1</Version>
+      <CreationDate>15.08.2017 15:52:16</CreationDate>
+      <IsCurrent>True</IsCurrent>
+      <RunDate>26.07.2018 10:47:23</RunDate>
+      <Forms>
+        <Form>
+          <Name>Модель Агропромышленного парка РТ</Name>
+          <CreationDate>Вт 15.08.17 21:30:43</CreationDate>
+        </Form>
+      </Forms>
+    </SimModel>
+  </SimModels>
+  <TebsLibraries>
+    <TebsLibrary>
+      <Guid>0b976207-6047-4a0b-9b4e-a54dcdf73ba7</Guid>
+      <Version>1.0.0.0</Version>
+      <Name>Библиотека ТЭБов</Name>
+      <Description></Description>
+      <CreationDate>Вт 15.08.17 15:52:17</CreationDate>
+      <Format>0</Format>
+    </TebsLibrary>
+  </TebsLibraries>
+</GpssStudioProject>

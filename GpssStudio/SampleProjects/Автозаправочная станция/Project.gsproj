@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GpssStudioProject FormatVersion="1">
+  <Guid>a54909b7-d153-46b0-89e8-851e2fb8369a</Guid>
+  <Name>Автозаправочная станция</Name>
+  <Description>АЗС состоит из двух заправочных колонок. Интервалы времени между поступлением автомобилей имеют равномерное распределение со средним значением, зависящем от времени суток. Требуется определить характеристики качества обслуживания автомобилей, оптимальное количество бензоколонок и наилучшую стратегию обслуживания автомобилей.</Description>
+  <CreationDate>2018-08-01T10:12:05.8942283+03:00</CreationDate>
+  <HelpID>Htmls\Toc_1_2.htm</HelpID>
+  <SimModels>
+    <SimModel>
+      <Name>Модель 1</Name>
+      <Description></Description>
+      <Version>1</Version>
+      <CreationDate>01.08.2018 10:12:05</CreationDate>
+      <IsCurrent>True</IsCurrent>
+      <RunDate>01.08.2018 10:13:47</RunDate>
+      <Forms>
+        <Form>
+          <Name>Автозаправочная станция</Name>
+          <CreationDate>01.08.2018 10:18:18</CreationDate>
+        </Form>
+      </Forms>
+    </SimModel>
+  </SimModels>
+  <TebsLibraries>
+    <TebsLibrary>
+      <Guid>531afc86-0572-43ed-b733-a9ff2d36379c</Guid>
+      <Version>1.0.0.0</Version>
+      <Name>Библиотека ТЭБов</Name>
+      <Description></Description>
+      <CreationDate>01.08.2018 10:12:05</CreationDate>
+      <Format>0</Format>
+    </TebsLibrary>
+  </TebsLibraries>
+</GpssStudioProject>
